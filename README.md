@@ -64,8 +64,7 @@
 
 ## 代码与数据集下载
 
-- 代码归档：[MMDD.zip](./MMDD.zip)。解压后可查看 `MMDD/` 下的 Python 源码。
-- 配套数据分享：[USSMF（百度网盘）](https://pan.baidu.com/s/1ju8Rrpdbk9f6WgyoPDceXw?pwd=k5ix)，提取码 `k5ix`。
+- 代码与配套数据分享：[USSMF（百度网盘）](https://pan.baidu.com/s/16MzmEcw0AiZgovjqc_vnFA?pwd=5jit)，提取码 `5jit`。
 
 下文的目录结构描述原始项目归档。实际运行前请按配置补齐所需的数据、划分文件和检查点。
 
